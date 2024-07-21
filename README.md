@@ -1,4 +1,4 @@
 # demo
 This is my first git repository.
 <br>
-Author - Abhishek Gupta
+Author - Abhishek Gupta (apna college)
